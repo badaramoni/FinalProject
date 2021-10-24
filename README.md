@@ -5,6 +5,7 @@ Design pattern
 The four-design pattern which are used are: -
 
 •	Strategy design pattern
+
 In Strategy pattern, a class behavior or its algorithm can be changed at run time. This type of design pattern comes under behavior pattern. We create objects which represent various strategies and a context object whose behavior varies as per its strategy object. The strategy object changes the executing algorithm of the context object. In our Project we have included strategy project to assign memory to Laptops at run time, so that each laptop can be configured dynamically.
 
 	•	Singleton design pattern
